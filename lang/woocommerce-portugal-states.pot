@@ -1,0 +1,115 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Portugal States (Distritos) for WooCommerce\n"
+"POT-Creation-Date: 2017-03-27 15:41+0100\n"
+"PO-Revision-Date: 2017-03-27 15:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woocommerce-portugal-states.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: woocommerce-portugal-states.php:37
+msgid "Azores"
+msgstr ""
+
+#: woocommerce-portugal-states.php:38
+msgid "Aveiro"
+msgstr ""
+
+#: woocommerce-portugal-states.php:39
+msgid "Beja"
+msgstr ""
+
+#: woocommerce-portugal-states.php:40
+msgid "Braga"
+msgstr ""
+
+#: woocommerce-portugal-states.php:41
+msgid "Bragança"
+msgstr ""
+
+#: woocommerce-portugal-states.php:42
+msgid "Castelo Branco"
+msgstr ""
+
+#: woocommerce-portugal-states.php:43
+msgid "Coimbra"
+msgstr ""
+
+#: woocommerce-portugal-states.php:44
+msgid "Évora"
+msgstr ""
+
+#: woocommerce-portugal-states.php:45
+msgid "Faro"
+msgstr ""
+
+#: woocommerce-portugal-states.php:46
+msgid "Guarda"
+msgstr ""
+
+#: woocommerce-portugal-states.php:47
+msgid "Leiria"
+msgstr ""
+
+#: woocommerce-portugal-states.php:48
+msgid "Lisbon"
+msgstr ""
+
+#: woocommerce-portugal-states.php:49
+msgid "Madeira"
+msgstr ""
+
+#: woocommerce-portugal-states.php:50
+msgid "Portalegre"
+msgstr ""
+
+#: woocommerce-portugal-states.php:51
+msgid "Oporto"
+msgstr ""
+
+#: woocommerce-portugal-states.php:52
+msgid "Santarém"
+msgstr ""
+
+#: woocommerce-portugal-states.php:53
+msgid "Setúbal"
+msgstr ""
+
+#: woocommerce-portugal-states.php:54
+msgid "Viana do Castelo"
+msgstr ""
+
+#: woocommerce-portugal-states.php:55
+msgid "Vila Real"
+msgstr ""
+
+#: woocommerce-portugal-states.php:56
+msgid "Viseu"
+msgstr ""
+
+#: woocommerce-portugal-states.php:65
+msgid "District"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Portugal States (Distritos) for WooCommerce"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin adds the Portuguese \"States\", known as \"Distritos\", to "
+"WooCommerce and sets the correct address format for Portugal"
+msgstr ""
